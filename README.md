@@ -25,3 +25,11 @@ Ascendant logo with text
 ## wallpaper-1
 <img src="wallpapers/wallpaper-1/wallpaper-1.png" width="200">  
 Full HD Ascendant wallpaper 1
+
+## wallpaper-2
+<img src="wallpapers/wallpaper-2/wallpaper-2.png" width="200">  
+Full HD Ascendant wallpaper 2
+
+## wallpaper-3
+<img src="wallpapers/wallpaper-3/wallpaper-3.png" width="200">  
+Full HD Ascendant wallpaper 3
