@@ -7,17 +7,17 @@ You are allowed to use these logos however you want, modify them, use them on yo
 Note: If you want to modify some design, you need to open .gvdesign file in [designer.io](https://designer.io)
 
 ## logo-2
-![logo-2](logo-2.png)
+![logo-2](logo-2.png)  
 Ascendant logo
 
 ## logo-3
-![logo-3](logo-3.png)
+![logo-3](logo-3.png)  
 Ascendant logo with text
 
 ## logo-4
-![logo-4](logo-4.png)
+![logo-4](logo-4.png)  
 1024x512 header
 
 ## logo-5
-![logo-5](logo-5.png)
+![logo-5](logo-5.png)  
 1500x500 header for Twitter
