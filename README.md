@@ -6,6 +6,10 @@ You are allowed to use these logos however you want, modify them, use them on yo
 
 Note: If you want to modify some design, you need to open .gvdesign file in [designer.io](https://designer.io)
 
+## Color used for all designs
+There you go: #b19cd9  
+This list might be longer in the future, but for now only one color is used
+
 ## logo-2
 <img src="logos/logo-2/logo-2.png" width="200">  
 Ascendant logo
@@ -25,3 +29,11 @@ Ascendant logo with text
 ## wallpaper-1
 <img src="wallpapers/wallpaper-1/wallpaper-1.png" width="200">  
 Full HD Ascendant wallpaper 1
+
+## wallpaper-2
+<img src="wallpapers/wallpaper-2/wallpaper-2.png" width="200">  
+Full HD Ascendant wallpaper 2
+
+## wallpaper-3
+<img src="wallpapers/wallpaper-3/wallpaper-3.png" width="200">  
+Full HD Ascendant wallpaper 3
