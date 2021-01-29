@@ -1,6 +1,6 @@
 # Ascendant Designs
 Here you can find logos, wallpapers and other stuff used in Ascendant ROM.  
-Each design has JPG, PNG, SVG and .gvdesign files, these designs also have JPG files with dark and light backgrounds, also the PNG files are transparent.
+Each design has JPG, PNG, SVG and .gvdesign files(except for wallpapers, wallpapers only have JPG, PNG and .gvdesign files), these designs also have JPG files with dark and light backgrounds, also the PNG files are transparent(except for wallpapers).
 
 You are allowed to use these logos however you want, modify them, use them on your website, etc.
 
