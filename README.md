@@ -40,3 +40,7 @@ Full HD Ascendant wallpaper 2
 ## wallpaper-3
 <img src="wallpapers/wallpaper-3/wallpaper-3.png" width="200">  
 Full HD Ascendant wallpaper 3
+
+## animation-1
+[Here](animations/animation-1/animation-1.mp4)  
+Ascendant animation 1
