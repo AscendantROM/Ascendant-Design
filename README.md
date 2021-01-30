@@ -10,6 +10,9 @@ Note: If you want to modify some design, you need to open .gvdesign file in [des
 There you go: #b19cd9  
 This list might be longer in the future, but for now only one color is used
 
+## Font used for all designs
+Comfortaa Bold, you can find it [here](https://fonts.google.com/specimen/Comfortaa)
+
 ## logo-2
 <img src="logos/logo-2/logo-2.png" width="200">  
 Ascendant logo
