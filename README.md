@@ -42,5 +42,6 @@ Full HD Ascendant wallpaper 2
 Full HD Ascendant wallpaper 3
 
 ## animation-1
-[Here](animations/animation-1/animation-1.mp4)  
-Ascendant animation 1
+[MP4](animations/animation-1/animation-1.mp4)  
+[Android bootanimation ZIP](animations/animation-1/android/bootanimation.zip)  
+Ascendant bootanimation(512x512)
