@@ -1,4 +1,4 @@
 512 512 60
-c 1 0 part0
-c 0 0 part1
-c 1 0 part2
+c 1 0 part0 #FFFFFF
+c 0 0 part1 #FFFFFF
+c 1 0 part2 #FFFFFF
