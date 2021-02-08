@@ -45,5 +45,5 @@ Full HD Ascendant wallpaper 3
 [MP4(light)](animations/animation-1/animation-1.mp4)  
 [MP4(dark)](animations/animation-1/animation-1-dark.mp4)  
 [Android bootanimation ZIP(light)](animations/animation-1/android/bootanimation.zip)  
-[Android bootanimation ZIP(dark)](animations/animation-1/android-dark/bootanimation.zip)  
+[Android bootanimation ZIP(dark)](animations/animation-1/android-dark/bootanimation-dark.zip)  
 Ascendant bootanimation(512x512)
